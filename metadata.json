@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Objective VRP Optimizer",
+  "description": "An advanced academic and professional Multi-Objective Vehicle Routing Problem (VRP) software suite with interactive weight sliders, Pareto analysis, scenario comparisons, and 2D route visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
